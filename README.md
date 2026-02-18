@@ -15,4 +15,4 @@ change directory to repository directory
 type ".\wordfun.py" to start server
 
 Browser:
-Go to address:  http://12.0.0.1:5000
+Go to address:  http://127.0.0.1:5000
