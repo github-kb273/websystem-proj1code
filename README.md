@@ -4,7 +4,7 @@ Packages:
 Flask
 requests
 
-If you want to run this game in WinOS, initialize by:
+If you want to run this game in WinOS, initialize by:<BR>
 python -m venv env0
 env0\Scripts\activate
 pip install Flask
